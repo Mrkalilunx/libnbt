@@ -1,0 +1,6 @@
+*.o
+nbt
+testnbt
+lsf
+text/
+data/
